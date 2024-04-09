@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271736043311",
+    "project_id": "takatuf-983a2",
+    "storage_bucket": "takatuf-983a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271736043311:android:b4119b96469287c9ff13da",
+        "android_client_info": {
+          "package_name": "com.example.takatuf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK0D85vOr7m712ihfzH6vc29JOM3vuh5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
